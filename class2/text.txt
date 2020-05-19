@@ -1,0 +1,8 @@
+mercedes 2015 23000 black 100 
+bmw 2018 38000 white 290 
+audi 2007 50000 green 190 
+Mercedes 1995 15000 red 200 
+opel 2008 80000 gold 140 
+toyota 2010 10000 gray 180 
+bmw 1999 40000 rose 300 
+mercedes 1995 60000 yellow 500
